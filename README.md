@@ -6,7 +6,7 @@ WS MODZ OFC
 
 
 <div align="center">
-  <img border-radius: 15px src="https://youtube.com/channel/UCKW8EUxAo6A7RKhc35H54wg" width="200" height="200"/>
+  <img border-radius: 15px src="https://images.app.goo.gl/RnRsXtUhWUDwMnkP6" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="WS" src="https://img.shields.io/badge/MODZ-OFC-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
