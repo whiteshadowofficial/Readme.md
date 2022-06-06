@@ -11,7 +11,12 @@ WS MODZ OFC
 <a href="#"><img title="WS" src="https://img.shields.io/badge/MODZ-OFC-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p 
-
+<div align="center">
+  <img border-radius: 15px src="https://telegra.ph/file/40f20782c422633213278.png" 
+  <p align="center">
+<a href="#"><img title="" src="https://img.shields.io/badge/WhatsApp-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+  <p 
 
 <p align="center">
   <a href="https://wa.me/94779529221">
