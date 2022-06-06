@@ -3,7 +3,15 @@
 
 WS MODZ OFC
 
-https://youtube.com/channel/UCKW8EUxAo6A7RKhc35H54wg
+
+
+<div align="center">
+  <img border-radius: 15px src="https://youtube.com/channel/UCKW8EUxAo6A7RKhc35H54wg" width="200" height="200"/>
+  <p align="center">
+<a href="#"><img title="WS" src="https://img.shields.io/badge/MODZ-OFC-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+  <p 
+
 
 <p align="center">
   <a href="https://wa.me/94779529221">
